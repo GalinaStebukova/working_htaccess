@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+
+#Reirect /index.php /test.php
